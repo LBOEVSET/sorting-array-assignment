@@ -1,0 +1,5 @@
+#1 dependency install
+ - npm install
+
+#2 run unit test
+ - npm run test:cov
